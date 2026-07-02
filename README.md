@@ -1,2 +1,3 @@
-# Financial-Market-Trends
-A data analytics project focused on exploring financial market trends using Python. This project performs end-to-end data analysis, including data cleaning, preprocessing, exploratory data analysis (EDA), and visualization to uncover meaningful insights from financial market data.
+# 📈 Financial Market Trading Performance & Risk Analysis
+## 📌Project Overview
+- This project analyzes financial market trading data to identify market trends, track key performance metrics, and deliver interactive insights through a Power BI dashboard for better investment decisions.
