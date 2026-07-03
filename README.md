@@ -2,4 +2,9 @@
 ## 📌Project Overview
 - This project analyzes financial market trading data to identify market trends, track key performance metrics, and deliver interactive insights through a Power BI dashboard for better investment decisions.
 ## 🎯 Business Statement
--
+- Which stocks are the most & least profitable?
+- Which sector is driving returns vs dragging performance?
+- Which traders are performing best — and worst?
+- How much is commission eating into profits?
+  
+
