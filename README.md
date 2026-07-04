@@ -14,3 +14,8 @@
 - Which traders are performing best — and worst?
 - How much is commission eating into profits?
   
+## 🛠️ Tools Used
++ Python (Pandas)
++ SQL
++ Power BI
++ Jupyter Notebook
