@@ -3,10 +3,7 @@
 - This project analyzes financial market trading data to identify market trends, track key performance metrics, and deliver interactive insights through a Power BI dashboard for better investment decisions.
 
 ## 🎯 Business Problem
-> "Our traders are executing more trades than ever — but our net returns keep 
-> shrinking. We have no clear visibility into which stocks, sectors, and traders 
-> are actually making us money versus losing it."  
-> — CIO, AlphaVest Capital
+- Despite executing thousands of stock trades, the company cannot clearly identify which stocks, sectors, or traders are generating profits and which are causing losses. Without this visibility, decision-making becomes difficult, reducing overall portfolio performance and profitability.
   
 ## ❓ Key Business Quetions
 - Which stocks are the most & least profitable?
