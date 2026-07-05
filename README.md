@@ -21,4 +21,9 @@
 + Jupyter Notebook
 
 ## 🧹 Data Cleaning & Preprocessing
-- 
+- ✅ Handling missing values
+- ✅ Removing duplicate records
+- ✅ Fixing invalid stock prices
+- ✅ Standardizing date formats
+- ✅ Cleaning stock ticker names
+- ✅ Standardizing trade type values
