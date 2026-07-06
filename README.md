@@ -24,3 +24,9 @@
 - ✅ Standardizing date formats
 - ✅ Cleaning stock ticker names
 - ✅ Standardizing trade type values
+- ✅ Removing currency symbols
+- ✅ Correcting data types
+- ✅ Trimming extra whitespace
+- ✅ Validating RSI values (0–100)
+- ✅ Fixing invalid High–Low price records
+- ✅ Removing special characters from Trade IDs
