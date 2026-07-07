@@ -10,6 +10,9 @@
 - Which sector is driving returns vs dragging performance?
 - Which traders are performing best — and worst?
 - How much is commission eating into profits?
+- Are RSI signals being ignored?
+- What is the volatility risk per stock?
+- Are there seasonal or monthly trends in performance?
   
 ## 🛠️ Tools Used
 + Python (Pandas)
