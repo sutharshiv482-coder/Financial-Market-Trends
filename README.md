@@ -33,3 +33,14 @@
 - ✅ Validating RSI values (0–100)
 - ✅ Fixing invalid High–Low price records
 - ✅ Removing special characters from Trade IDs
+
+## 📊 Dashboard Preview
+*(Insert Power BI screenshot here)*
+
+Key visuals:
+- KPI cards: Total Returns, Total Trades, Avg Commission Rate
+- Bar chart: Net Value by Stock & Sector
+- Trader performance ranking table
+- RSI signal scatter plot (flags bad trades)
+- Volatility heatmap by stock
+- Monthly/quarterly returns trend line
