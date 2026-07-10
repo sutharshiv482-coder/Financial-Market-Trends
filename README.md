@@ -35,7 +35,8 @@
 - ✅ Removing special characters from Trade IDs
 
 ## 📊 Dashboard Preview
-*(Insert Power BI screenshot here)*
+*(<img width="2845" height="1634" alt="Financial Markets Trading Dashboard - Google Chrome 10-07-2026 17_18_14" src="https://github.com/user-attachments/assets/038051bc-5e94-45f7-b9cb-1c186b3dac25" />
+)*
 
 Key visuals:
 - 
