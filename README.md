@@ -33,7 +33,7 @@
 - ✅ Validating RSI values (0–100)
 - ✅ Fixing invalid High–Low price records
 - ✅ Removing special characters from Trade IDs
-✨ Clean data is the foundation of accurate insights and smarter decisions. ⭐
+* ✨ Clean data is the foundation of accurate insights and smarter decisions. ⭐ *
 
 ## 📊 Dashboard Preview
 *(<img width="2845" height="1634" alt="Financial Markets Trading Dashboard - Google Chrome 10-07-2026 17_18_14" src="https://github.com/user-attachments/assets/038051bc-5e94-45f7-b9cb-1c186b3dac25" />
