@@ -39,4 +39,10 @@
 )*
 
 Key visuals:
-- 
+- 📌 KPI Cards – Total Trade Value, Net Value, Total Trades, Total Volume, Avg RSI
+- 📈 Quarterly Trade Value vs Net Value Trend (Line Chart)
+- 🥧 Volume Distribution by Exchange (Donut Chart)
+- 📊 Trade Value by Sector (Horizontal Bar Chart)
+- 📉 Top Tickers by Trade Value (Column Chart)
+- 🎛️ Interactive Filters (Year, Trade Type, Exchange)
+- 💡 Dynamic Business Insights & Highlights
