@@ -35,6 +35,12 @@
 - ✅ Removing special characters from Trade IDs
 > ✨ Clean data is the foundation of accurate insights and smarter decisions. ⭐ 
 
+## 📈 Key Insights
+- MSFT was the most profitable stock, contributing 32.46% of the top 5 profits, while APL contributed only 3.62% of the bottom 5 profits.
+- The Healthcare sector had the highest return ratio at 82.65%, while Consumer Cyclical had the lowest at 49.66%.
+- TRD1042 earned the highest profit of 14.58M, while TRD1046 earned the lowest profit of 9.72M among the top 10 traders.
+
+
 ## 📊 Dashboard Preview
 *(<img width="2845" height="1634" alt="Financial Markets Trading Dashboard - Google Chrome 10-07-2026 17_18_14" src="https://github.com/user-attachments/assets/038051bc-5e94-45f7-b9cb-1c186b3dac25" />
 )*
