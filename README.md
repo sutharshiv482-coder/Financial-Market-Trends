@@ -41,6 +41,7 @@
 - TRD1042 earned the highest profit of 14.58M, while TRD1046 earned the lowest profit of 9.72M among the top 10 traders.
 - Broker commissions averaged only 0.10% of net profit, showing that transaction costs had very little impact on overall profitability.
 - RSI signals were largely ignored, with Neutral RSI accounting for 2,767 trades (78.9%), while Overbought and Oversold accounted for just 387 (11.0%) and 352 (10.0%) trades, respectively.
+- MSFT (25.38) and MICROSOFT (22.27) were the most volatile stocks, whereas APL (3.50), DIS (2.54), and JPM (2.60) exhibited the lowest volatility risk.
 
 
 ## 📊 Dashboard Preview
