@@ -12,7 +12,6 @@
 - How much is commission eating into profits?
 - Are RSI signals being ignored?
 - What is the volatility risk per stock?
-- Are there seasonal or monthly trends in performance?
   
 ## 🛠️ Tools Used
 + Python (Pandas)
