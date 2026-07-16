@@ -42,6 +42,7 @@
 - RSI signals were largely ignored, with Neutral RSI accounting for 2,767 trades (78.9%), while Overbought and Oversold accounted for just 387 (11.0%) and 352 (10.0%) trades, respectively.
 - MSFT (25.38) and MICROSOFT (22.27) were the most volatile stocks, whereas APL (3.50), DIS (2.54), and JPM (2.60) exhibited the lowest volatility risk.
 
+---
 
 ## 📊 Dashboard Preview
 *(<img width="2845" height="1634" alt="Financial Markets Trading Dashboard - Google Chrome 10-07-2026 17_18_14" src="https://github.com/user-attachments/assets/038051bc-5e94-45f7-b9cb-1c186b3dac25" />
@@ -55,3 +56,6 @@ Key visuals:
 - 📉 Top Tickers by Trade Value (Column Chart)
 - 🎛️ Interactive Filters (Year, Trade Type, Exchange)
 - 💡 Dynamic Business Insights & Highlights
+
+## 💡 Business Recommendation
+> To improve overall portfolio performance, increase investment in high-performing stocks such as MSFT and the Healthcare sector while reviewing the strategy for low-performing stocks like APL and the Consumer Cyclical sector. Adopt the trading practices of top-performing traders, encourage better use of RSI signals to improve trade timing, and maintain a balanced portfolio by combining high-return stocks with lower-volatility investments. These actions help businesses allocate capital more effectively, increase profitability, reduce investment risk, optimize trading decisions, and support sustainable business growth through better data-driven decision-making.
