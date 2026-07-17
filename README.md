@@ -44,8 +44,7 @@ Develop an end-to-end financial analytics solution to monitor trading performanc
 + SQL
 + Power BI
 + Jupyter Notebook
-
-## 🧹 Data Cleaning & Preprocessing
+---
 # 🧹 Data Cleaning & Preprocessing
 
 - Handled missing values
@@ -92,7 +91,9 @@ Develop an end-to-end financial analytics solution to monitor trading performanc
 ---
 
 ## 💡 Business Recommendation
-Increase investment in **high-performing stocks and sectors**, use **RSI signals** more effectively to improve **trading decisions**, monitor high-volatility stocks to manage risk, and share the strategies of top-performing traders to improve overall portfolio performance and profitability.
+
+Increase investment in high-performing stocks and sectors, use RSI signals more effectively to improve trading decisions, monitor high-volatility stocks to manage risk, and share the strategies of top-performing traders to improve overall portfolio performance and profitability.
+
 ---
 # 📈 Business Impact
 
